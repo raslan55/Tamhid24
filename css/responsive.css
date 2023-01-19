@@ -1,0 +1,102 @@
+@media (min-width: 1200px) { .serv{
+    display: none;
+}
+
+
+}
+  
+    
+  
+
+@media(min-width:992px) and (max-width:1199px) {
+    .nav-link {font-size: 14px; font-weight: normal;}
+
+    .nav-item {
+        padding
+        : 5px;;
+    }
+    .serv{
+        display: none;
+    }
+  
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .dropdown{
+        display: none;
+    }
+    .serv {
+        display: block;
+    }
+}
+
+@media(min-width:300px) and (max-width:767px) {
+    .typed{
+        padding: 30px;
+    }
+    .typed h1{
+        font-size: 20px;
+    }
+    .banner {
+        height: 200px;
+    }
+    .about h1 {
+        font-size: 20px;
+    }
+    .about p {
+        font-size: 15px;
+    }
+    .services h2{
+        font-size: 20px;
+    }
+    .clients h2{
+        font-size: 25px;
+    }
+    .services{
+        height: 370px;
+        padding: 40px;
+
+    }
+    .team img{
+        width: 220px;
+    }
+    .contact_us img {
+        width: 195px;
+    }
+    .mission h3{
+        font-size: 20px;
+    }
+    .footer-2{
+        text-align: center;
+    }
+    .dropdown{
+        display: none;
+    }
+    .serv {
+        display: block;
+    }
+    .Second_banner .about_h {
+        font-size: 20px;
+        padding: 30px;
+        font-weight:bold; 
+    }
+    .Second_banner{
+        height: 150px;
+    }
+    .section_heading h4{
+        font-size: 15px;
+    }
+
+    .share ul li {
+        display: inline-block;
+        padding: 5px;
+        margin-left: 2px;
+        padding-left: 13px;
+        text-transform: capitalize;
+        cursor: pointer;
+        font-size: 12px !important;
+        text-align: center;
+        color: #FFF;
+}
+
+}

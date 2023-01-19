@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+body{
+    font-family: 'Cairo', sans-serif;
+
+}
+.nav-item {
+    padding: 3px;
+    margin: 1px;
+}
+.nav-link {
+    color: #FFF;
+    text-transform: capitalize;
+    font-size: 13px;
+}
+.owl-carousel 
+{
+    direction: ltr;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 0.5rem;
+}
